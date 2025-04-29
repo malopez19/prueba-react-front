@@ -65,23 +65,20 @@ El proyecto está dividido de forma modular:
 
 ## ▶️ Instalación y ejecución
 
-1. Cloná el repositorio:
+1. Clona el repositorio:
 
-```bash
-git clone https://github.com/tu-usuario/gestion-productos-react.git
+git clone https://github.com/malopez19/prueba-react-front.git
 cd gestion-productos-react
 
 2. instala dependencias:
-```bash
 npm install
 
 3. Inicia el proyecto en modo desarrollo::
-
-```bash
 npm run dev
 
 3. Abre el navegador:
-
-```bash
 http://localhost:5173
+
 # prueba-react-front
+Despliegue en vercel:
+https://prueba-react-front.vercel.app/
